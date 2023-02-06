@@ -18,6 +18,8 @@
         "vue": "^3.2.41"
     },
     "dependencies": {
-        "crypto-js": "^4.1.1"
+        "cors": "^2.8.5",
+        "crypto-js": "^4.1.1",
+        "jquery": "^3.6.3"
     }
 }
